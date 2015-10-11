@@ -10,7 +10,12 @@
 
 <script>
 function myFunction() {
+<<<<<<< HEAD
 alert("selam halil");
+deneme111
+=======
+alert("selam halil"); sdjfhggshjdgnfsjkgnsg
+>>>>>>> 362c0768c45aaad3f4bd5a632063291dee33c5f7
     var text = ""
     var i;
     for (i = 0; i < 5; i++) {
