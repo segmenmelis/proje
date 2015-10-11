@@ -11,6 +11,7 @@
 <script>
 function myFunction() {
 alert("selam halil");
+deneme111
     var text = ""
     var i;
     for (i = 0; i < 5; i++) {
