@@ -10,7 +10,7 @@
 
 <script>
 function myFunction() {
-alert("selam halil");
+alert("selam halil"); sdjfhggshjdgnfsjkgnsg
     var text = ""
     var i;
     for (i = 0; i < 5; i++) {
