@@ -23,4 +23,4 @@ function myFunction() {
 </script>
 <?php //Bu kod devam eden bir döngünün belli bir değişkenle kesilmesini sağlar.?>
 </body>
-</html>hyrshrt mmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+</html>hyrshrt mmmmmmmmmmmmmmmmmmmmmmmmmmmmmaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
